@@ -1,0 +1,45 @@
+*{
+    background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*seletor universal
+aplica a todas as tags
+*/
+
+
+button {
+    background-color: bisque;
+    font-size:  1rem;
+}
+
+img{
+    
+    height: 20px;
+    width: 20px;
+}
+
+/* seletor de tags
+aplica as regras a todas as tags
+*/
+.classeBotao{
+background-color: black;
+color: white;
+}
+.FonteG{
+    font-size: 2rem;
+}
+/*
+seletordeclasses
+aplica as regras somente quem possui aquela classe
+*/
+
+#iddaTag{
+    text-align: justify;
+    color: blueviolet;
+    font-family:'Times New Roman' 'Times New Roman', Times, serif;
+}
+
+/*
+seletordeId
+aplica as regras somente a tag que possui aquele id
+*/

@@ -1,0 +1,25 @@
+body{
+    background-color: rgba(0, 0, 255, 0.1);
+}
+
+.secao1, .secao2, .secao3, .secao4{
+    height: 500px;
+}
+.secao1{
+        background-color: rgb(130, 32, 223);
+    }
+.secao2{
+    background-color: rgb(228, 74, 182);
+}
+.secao3{
+    background-color: rgb(69, 95, 247);
+    background: 
+    linear-gradient(rgba(0,0,0,0,9)) rgba(0,0,0,0,9)
+    url(/assets/images/pngwing.com.ico) no-repeat center center;
+    background-image: url(/assets/images/pngwing.com\(1\).png);
+    background-size: cover;
+    background-repeat: space;
+}
+.secao4{
+    background-color: rgb(91, 253, 104);
+}
